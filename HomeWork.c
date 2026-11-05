@@ -13,7 +13,7 @@ int main()
 
     if(date == 0)
     {
-        printf("Invlid date!");
+        printf("Invalid date!");
         return 0;
     }
     else if(date < 0)
