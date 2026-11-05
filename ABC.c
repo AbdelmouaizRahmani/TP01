@@ -10,7 +10,7 @@ int main()
     printf(" a * x^2 + b * x + c = 0 \n\n");
 
     printf("Enter the three numbers a, b and c: ");
-    scanf("%d %d %d", &a, &b, &c);
+    scanf("%f %f %f", &a, &b, &c);
 
     if(a == 0 && b == 0) 
     {
