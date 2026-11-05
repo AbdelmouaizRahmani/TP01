@@ -3,7 +3,7 @@
 int main()
 {
     int number = 0;
-    long fact = 1;
+    long long fact = 1;
 
     printf("Enter the number: ");
     scanf("%d", &number);
@@ -25,7 +25,7 @@ int main()
         }
     }
 
-    printf("So %d! equals %ld", number, fact);
+    printf("So %d! equals %lld", number, fact);
 
     return 0;
 
