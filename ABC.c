@@ -5,7 +5,7 @@ int main()
 {
     float a, b, c, delta, x0, x1, x2, x3;
 
-    printf("*** QUADRIC EQUATIONS SOLVER ***\n\n");
+    printf("*** QUADRATIC EQUATIONS SOLVER ***\n\n");
     printf("So here you have the following equation: ");
     printf(" a * x^2 + b * x + c = 0 \n\n");
 
